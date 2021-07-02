@@ -1,0 +1,30 @@
+h1 {
+    color: rgb(99, 11, 16);
+}
+* {
+    border-style:hidden;
+}
+.Top{
+    background-color:#1ba19b;
+    display:flex;
+   justify-content: space-between;
+   width: 795px;
+    height: 65px;
+
+}
+.Bear{
+    background-color: rgba(8, 43, 243, 0.637);
+    display:table;
+    justify-content:stretch;
+    width: 600px;
+    height: 350px;
+}
+.Panda{
+    background-color: rgba(108, 255, 9, 0.966);
+    justify-content: center;
+    width: 600px;
+    height: 400px;
+}
+body{
+    background-color: #a3a1a3;
+}
